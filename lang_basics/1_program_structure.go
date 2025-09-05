@@ -1,9 +1,12 @@
-package Lang_basics
+package lang_basics
 
 import "fmt"
 
-func printhello() {
+func prhello() {
 	fmt.Println("Hello World")
+	//or
+	fmt.Println("Hello Golang!")
+	fmt.Println("Hello METANIT.COM!")
 }
 
 // tests:
